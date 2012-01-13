@@ -1,3 +1,7 @@
 META-INF/*
-.project/
+WEB-INF/*
+.project
+.classpath
 .settings/
+.externalToolBuilders/
+
